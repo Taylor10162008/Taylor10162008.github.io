@@ -89,5 +89,5 @@ Cybersecurity, computer science, national security, languages, history, and prob
 
 
 ## **Projects**
-[Link name](https://github.com/Taylor10162008/HangMan)
+[HangMan](https://github.com/Taylor10162008/HangMan)
 You are given a description of the word you are trying to solve. In order to win the game you must guess the letter or the word of the description given to you If you guess wrong the man starts to appear if you guess wrong. Starting from head to toe! 
