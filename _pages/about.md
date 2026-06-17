@@ -93,7 +93,7 @@ Cybersecurity, computer science, national security, languages, history, and prob
 You are given a description of the word you are trying to solve. In order to win the game you must guess the letter or the word of the description given to you If you guess wrong the man starts to appear if you guess wrong. Starting from head to toe! 
 
 My Quarter 2 project I worked with my partner Kate on making a website to help promote my progrm which is the ITOA program (information Technology Oracle Acadamy) at Havre de Grace HS.
-[Weubsite](https://github.com/Taylor10162008/QT-2-ITOA-Website-real-one-/blob/main/ITOA_Website.html) 
+[Website](https://github.com/Taylor10162008/QT-2-ITOA-Website-real-one-/blob/main/ITOA_Website.html) 
 
 My Quarter three Project was with APG helping them redesin a website that would make it easy to understand for soliders in the field, in away making it prettier and better looking for others to use.
 [APG Website](ronald-cq-GH/Clinical-Internship-Q3)
